@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<group>
+	<Mesh_vertex_radius>2</Mesh_vertex_radius>
+	<Mesh_columns>8</Mesh_columns>
+	<Mesh_rows>8</Mesh_rows>
+	<Vertex_density>0.3</Vertex_density>
+	<Vertex_bounce>0.0811523</Vertex_bounce>
+	<Vertex_friction>0.0661523</Vertex_friction>
+	<Joint_frequency>2.82305</Joint_frequency>
+	<Joint_damping>1.55986</Joint_damping>
+	<Subsection_width>232</Subsection_width>
+	<Subsection_height>134</Subsection_height>
+</group>
